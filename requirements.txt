@@ -1,0 +1,11 @@
+bilby[gw]
+h5py
+jupyter
+lisagwresponse
+matplotlib
+numpy
+pytdi
+scikit-learn
+scipy
+seaborn
+torch
