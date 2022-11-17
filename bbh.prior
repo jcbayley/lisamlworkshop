@@ -1,0 +1,10 @@
+mass_1 = Uniform(name='mass_1', minimum=5e5, maximum=5e6)
+mass_2 = Uniform(name='mass_2', minimum=5e5, maximum=5e6)
+luminosity_distance = bilby.gw.prior.UniformSourceFrame(name='luminosity_distance', minimum=5e3, maximum=1e4)
+dec = 0
+ra = 0
+theta_jn = 0
+psi = 0
+phase = 0
+chi_1 = 0.0
+chi_2 = 0.0
